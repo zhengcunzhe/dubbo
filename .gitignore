@@ -1,0 +1,12 @@
+/.idea/
+/api/api.iml
+/api/target/
+/consumer/.gitignore
+/consumer/.mvn/
+/consumer/mvnw
+/consumer/mvnw.cmd
+/dubbo.iml
+/provider/.gitignore
+/provider/.mvn/
+/provider/mvnw
+/provider/mvnw.cmd
